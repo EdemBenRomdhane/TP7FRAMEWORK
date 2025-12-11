@@ -1,0 +1,19 @@
+# Binaries
+*.class
+*.so
+*.o
+*.a
+libsigjni.so
+
+# Generated Headers
+jni/SigJNI.h
+
+# Tools & JDKs
+javajdk/
+
+# IDEs
+.idea/
+.vscode/
+
+# Build artifacts
+*.log
